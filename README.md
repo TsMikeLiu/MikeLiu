@@ -1,2 +1,2 @@
 # MikeLiu
-Sophomore
+My first Git
